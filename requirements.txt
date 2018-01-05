@@ -11,6 +11,7 @@ decorator==4.1.2
 entrypoints==0.2.3
 enum34==1.1.6
 functools32==3.2.3.post2
+h5py==2.7.1
 hide-code==0.5.0
 html5lib==1.0.1
 ipykernel==4.7.0
@@ -18,6 +19,7 @@ ipython==5.5.0
 ipython-genutils==0.2.0
 ipywidgets==7.0.5
 Jinja2==2.10
+joblib==0.11
 jsonschema==2.6.0
 jupyter==1.0.0
 jupyter-client==5.1.0
@@ -35,12 +37,15 @@ numpy==1.13.3
 pandas==0.21.0
 pandocfilters==1.4.2
 pathlib2==2.3.0
+patsy==0.4.1
 pdfkit==0.6.1
 pexpect==4.3.0
 pickleshare==0.7.4
 prompt-toolkit==1.0.15
 ptyprocess==0.5.2
+pyEDFlib==0.1.11
 Pygments==2.2.0
+pymc3==3.2
 pyparsing==2.2.0
 pyqtgraph==0.10.0
 pystan==2.17.0.0
@@ -56,10 +61,13 @@ seaborn==0.8.1
 simplegeneric==0.8.1
 singledispatch==3.4.0.3
 six==1.11.0
+spectrum==0.7.3
 subprocess32==3.2.7
 terminado==0.8.1
 testpath==0.3.1
+Theano==1.0.1
 tornado==4.5.2
+tqdm==4.19.5
 traitlets==4.3.2
 wcwidth==0.1.7
 webencodings==0.5.1
